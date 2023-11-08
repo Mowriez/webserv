@@ -23,7 +23,7 @@ parsing HTTP requests, and responding with the appropriate HTTP responses.
 We implemented support for various HTTP methods, handle static and dynamic content, 
 and handle different HTTP status codes. 
 This project was a fantastic opportunity to deepen our understanding of networking, 
-HTTP protocol, and C++ programming.
+the HTTP protocol, and C++ programming.
 
 ## Features
 
@@ -39,7 +39,7 @@ HTTP protocol, and C++ programming.
 Before you begin, ensure you have met the following requirements:
 
 - A C++ compiler (e.g., `c++`)
-- Unix-based operating system (Linux or macOS)
+- Unix-based operating system (right now only macOS supported)
 
 ### Installation
 
