@@ -74,6 +74,7 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    curl -X GET http://localhost:8080/
    ```
+   ![](https://github.com/Mowriez/readmefiles/blob/master/webserv/website.gif)
    
 3. Stop the server by pressing `Ctrl + C` in the terminal window.
 
