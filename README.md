@@ -67,6 +67,7 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    ./webserv [path_to_config_file]
    ```
+   ![](https://github.com/Mowriez/readmefiles/blob/master/webserv/run%20and%20config.gif)
    
 2. Send HTTP requests to the server using your favorite web browser or a tool such as `curl` or `Postman`:
 
